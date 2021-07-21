@@ -1,7 +1,7 @@
 # Sweetcase-Service-SingleModuleAPI-Server
 ![fastapi](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
 ### 직접 만든 알고리즘이나 Library를 웹상으로 지원하기 위한 서비스 (Backend, Single Module API)
 해당 프로젝트에 대한 설명은 [Frontend Repo](https://github.com/SweetCase-Cobalto/Sweetcase-Service-client) 를 참고하세요<br />
 
